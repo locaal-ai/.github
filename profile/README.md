@@ -1,7 +1,7 @@
-# OBS AI Tools for Streaming and Content Generation
+# OCC AI Tools for Content Creators and Streamers
 
-This organization is a home for AI tools developed for streamers and content generators.
-All the projects are open source and offered for free over the [OBS](https://obsproject.com/) platform.
+This organization is a home for AI tools developed for streamers and content creators.
+All the projects are open source and offered for free.
 
 If you found any of this work of value, you can contribute too! Here are some ways to do that:
 
