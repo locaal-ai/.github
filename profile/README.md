@@ -11,7 +11,7 @@ If you found any of this work of value, you can contribute too! Here are some wa
 - 🧪 Test a build from any of the repositories. We are always looking for people to test our latest features.
 - 👍 Share our content on social media. If you like it - tell the world!
 - 📝 Subscribe to [Roy's YouTube channel](https://youtube.com/@royshilk). You will get frequent video updates, but also help us reach a bigger audience.
-- 💸 Make a small contribution through [GitHub sponsors](https://github.com/sponsors/royshil). This will help us pay for servers usage (CI), Apple developer signing, and upkeep of the free projects.
+- 💸 Make a small contribution through [GitHub sponsors](https://github.com/sponsors/royshil) or [Patreon](https://patreon.com/RoyShilkrot). This will help us pay for servers usage (CI), Apple developer signing, and upkeep of the free projects.
 
 Help us build the future of AI and Content Generation!
 
