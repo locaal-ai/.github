@@ -1,4 +1,4 @@
-# OCC AI Tools for Content Creators and Streamers
+# OCC AI: Open Tools for Content Creators and Streamers
 
 This organization is a home for AI tools developed for streamers and content creators.
 All the projects are open source and offered for free, run locally, no fees, no vendors. Pure open source ❤️
@@ -33,5 +33,5 @@ Other free AI tools for content creation:
 Roadmap projects in incubation: (all local, open source, no cloud fees, no vendors)
 
 - **VisualAIze** adds an AI assistant for realtime visual creations with fast Diffusion Models
-- **Chatterbox** gives your text a voice with realtime lifelike Text-to-Speech models
+- **Director** is an AI assistant that automatically controls your streaming app (e.g. OBS) by picking cameras, zooming in & out, and changing scenes.
 
