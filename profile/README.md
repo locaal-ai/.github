@@ -3,40 +3,48 @@
 This organization is a home for AI tools developed for streamers and content creators.
 All the projects are open source and offered for free, run locally, no fees, no vendors. Pure open source ❤️
 
+
 ## Our Work
 <table>
     <tr>
         <td>
-            <img width="90" src="https://github.com/occ-ai/.github/assets/441170/49d2454b-e091-468e-ac58-5356ec28a504" />
+            <img width="90" src="https://github.com/occ-ai/.github/assets/441170/49d2454b-e091-468e-ac58-5356ec28a504" /></br>
             <strong><a href="https://github.com/occ-ai/obs-backgroundremoval">Background Removal</a></strong><br>
-            Removes background from webcam without a green screen.
+            Removes background from webcam without a green screen, works on any OS and any hardware.
         </td>
         <td>
-            <img width="90" src="https://github.com/occ-ai/.github/assets/441170/f83f3553-b353-49b4-b4c5-cd234549fc61" />
-            <strong><a href="https://github.com/occ-ai/obs-cleanstream">CleanStream</a></strong><br>
-            🚧 Experimental 🚧: Real-time filler word (uh, um) and profanity removal from live audio stream.
+           <img width="90" src="https://github.com/occ-ai/.github/assets/441170/adc4bb49-9665-4bc3-b440-11fe170c8acc" /><br/>
+            <strong><a href="https://github.com/occ-ai/obs-ocr">OCR</a></strong><br>
+            Real-time text recognition (OCR) on any OBS source, turn images to live dynamic layouts.
         </td>
         <td>
-           <img width="90" src="https://github.com/occ-ai/.github/assets/441170/93438146-2ba4-4fd0-962e-2d8c4fe43edf" />
+           <img width="90" src="https://github.com/occ-ai/.github/assets/441170/93438146-2ba4-4fd0-962e-2d8c4fe43edf" /><br/>
             <strong><a href="https://github.com/occ-ai/obs-localvocal">LocalVocal</a></strong><br>
-            Speech AI assistant plugin for real-time, local transcription (captions).
+            Speech AI assistant plugin for real-time, local transcription (captions). Using OpenAI Whisper and whisper.cpp.
         </td>
     </tr>
     <tr>
         <td>
-            <img width="90" src="https://github.com/occ-ai/.github/assets/441170/21b4df57-f947-4986-b1b2-178731863022" />
+            <img width="90" src="https://github.com/occ-ai/.github/assets/441170/21b4df57-f947-4986-b1b2-178731863022" /><br/>
             <strong><a href="https://github.com/occ-ai/obs-polyglot">Polyglot</a></strong><br>
             Translation AI plugin for real-time, local translation to hundreds of languages.
         </td>
         <td>
-            <img width="90" src="https://github.com/occ-ai/.github/assets/441170/3d0d1ea1-b88d-4ab2-9fec-3a03142e2784" />
+            <img width="90" src="https://github.com/occ-ai/.github/assets/441170/3d0d1ea1-b88d-4ab2-9fec-3a03142e2784" /><br/>
             <strong><a href="https://github.com/occ-ai/obs-urlsource">URL/API Source</a></strong><br>
             For bringing live data from websites and connecting to APIs and AI services.
         </td>
         <td>
-          <img width="90" src="https://github.com/occ-ai/.github/assets/441170/5afbd6c6-a26c-4c60-a91f-dcc7f6a4fade" />
+          <img width="90" src="https://github.com/occ-ai/.github/assets/441170/5afbd6c6-a26c-4c60-a91f-dcc7f6a4fade" /><br/>
             <strong><a href="https://github.com/occ-ai/obs-brAIn">Brain</a></strong><br>
             Your AI second brain for OBS: Summarize, Highlight, Chat, Translate, Suggest and Memorize using LLMs.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img width="90" src="https://github.com/occ-ai/.github/assets/441170/f83f3553-b353-49b4-b4c5-cd234549fc61" /><br/>
+            <strong><a href="https://github.com/occ-ai/obs-cleanstream">CleanStream</a></strong><br>
+            🚧 Experimental 🚧: Real-time filler word (uh, um) and profanity removal from live audio stream.
         </td>
     </tr>
 </table>
