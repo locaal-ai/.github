@@ -3,6 +3,7 @@
 This organization is a home for AI tools developed for streamers and content creators.
 All the projects are open source and offered for free, run locally, no fees, no vendors. Pure open source ❤️
 
+Join us on Discord! https://discord.gg/AubP6DTT8r - Get support and help your fellow creators.
 
 ## Our Work
 <table>
