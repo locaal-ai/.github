@@ -26,9 +26,9 @@ Join us on Discord! https://discord.gg/AubP6DTT8r - Get support and help your fe
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/occ-ai/obs-polyglot"><img width="90" src="https://github.com/occ-ai/.github/assets/441170/21b4df57-f947-4986-b1b2-178731863022" /></a><br/>
-            <strong><a href="https://github.com/occ-ai/obs-polyglot">Polyglot</a></strong><br>
-            Translation AI plugin for real-time, local translation to hundreds of languages.
+            <a href="https://github.com/occ-ai/scoresight"><img width="90" src="https://github.com/occ-ai/.github/assets/441170/0ace2bb0-ecfb-4b86-8ab2-28558c9d8b24" /></a><br/>
+            <strong><a href="https://github.com/occ-ai/scoresight">ScoreSight</a></strong><br>
+            Professional grade OCR Tool for Games and Scoreboard
         </td>
         <td>
             <a href="https://github.com/occ-ai/obs-urlsource"><img width="90" src="https://github.com/occ-ai/.github/assets/441170/3d0d1ea1-b88d-4ab2-9fec-3a03142e2784" /></a><br/>
@@ -42,6 +42,11 @@ Join us on Discord! https://discord.gg/AubP6DTT8r - Get support and help your fe
         </td>
     </tr>
     <tr>
+        <td>
+            <a href="https://github.com/occ-ai/obs-polyglot"><img width="90" src="https://github.com/occ-ai/.github/assets/441170/21b4df57-f947-4986-b1b2-178731863022" /></a><br/>
+            <strong><a href="https://github.com/occ-ai/obs-polyglot">Polyglot</a></strong><br>
+            Translation AI plugin for real-time, local translation to hundreds of languages.
+        </td>
         <td>
             <a href="https://github.com/occ-ai/obs-cleanstream"><img width="90" src="https://github.com/occ-ai/.github/assets/441170/f83f3553-b353-49b4-b4c5-cd234549fc61" /></a><br/>
             <strong><a href="https://github.com/occ-ai/obs-cleanstream">CleanStream</a></strong><br>
