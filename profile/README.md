@@ -48,10 +48,17 @@ Join us on Discord! https://discord.gg/AubP6DTT8r - Get support and help your fe
             Translation AI plugin for real-time, local translation to hundreds of languages.
         </td>
         <td>
+            <a href="https://github.com/occ-ai/lexisynth"><img width="90" src="https://github.com/occ-ai/.github/assets/441170/1a8a90ca-c6a3-4f57-8179-c07d464ed5e4" /></a><br/>
+            <strong><a href="https://github.com/occ-ai/lexisynth">LexiSynth</a></strong><br>
+            AI Laguage processor for transciption (caption), translation and speech synthesis.
+        </td>
+        <td>
             <a href="https://github.com/occ-ai/obs-cleanstream"><img width="90" src="https://github.com/occ-ai/.github/assets/441170/f83f3553-b353-49b4-b4c5-cd234549fc61" /></a><br/>
             <strong><a href="https://github.com/occ-ai/obs-cleanstream">CleanStream</a></strong><br>
             🚧Experimental🚧 Real-time filler word (uh, um) and profanity removal from live audio stream.
         </td>
+    </tr>
+    <tr>
         <td>
             <a href="https://github.com/occ-ai/obs-brAIn"><img width="90" src="https://github.com/occ-ai/.github/assets/441170/5afbd6c6-a26c-4c60-a91f-dcc7f6a4fade" /></a><br/>
             <strong><a href="https://github.com/occ-ai/obs-brAIn">Brain</a></strong><br>
