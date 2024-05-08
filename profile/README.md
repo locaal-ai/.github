@@ -55,7 +55,7 @@ Join us on Discord! https://discord.gg/AubP6DTT8r - Get support and help your fe
         <td>
             <a href="https://github.com/occ-ai/obs-cleanstream"><img width="90" src="https://github.com/occ-ai/.github/assets/441170/f83f3553-b353-49b4-b4c5-cd234549fc61" /></a><br/>
             <strong><a href="https://github.com/occ-ai/obs-cleanstream">CleanStream</a></strong><br>
-            🚧Experimental🚧 Real-time filler word (uh, um) and profanity removal from live audio stream.
+            Real-time streaming voice moderation (remove/replace profanity, disfluency) using live transcription.
         </td>
     </tr>
     <tr>
