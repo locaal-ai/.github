@@ -28,12 +28,12 @@ Join us on Discord! https://discord.gg/AubP6DTT8r - Get support and help your fe
         <td>
             <div align="center"><a href="https://github.com/occ-ai/scoresight"><img width="90" src="https://github.com/occ-ai/.github/assets/441170/0ace2bb0-ecfb-4b86-8ab2-28558c9d8b24" /></a><br/>
             <strong><a href="https://github.com/occ-ai/scoresight">ScoreSight</a></strong></div>
-            Professional grade OCR Tool for Games and Scoreboard
+            Professional grade OCR Tool for Games and Scoreboards. Capture anything, send result anywhere.
         </td>
         <td>
             <div align="center"><a href="https://github.com/occ-ai/obs-urlsource"><img width="90" src="https://github.com/occ-ai/.github/assets/441170/3d0d1ea1-b88d-4ab2-9fec-3a03142e2784" /></a><br/>
             <strong><a href="https://github.com/occ-ai/obs-urlsource">URL/API Source</a></strong></div>
-            For bringing live data from websites and connecting to APIs and AI services. Dynamic requests, media supported (image i/o, audio).
+            For bringing live data from websites, APIs and services. Dynamic requests, image i/o, audio supported.
         </td>
         <td>
             <div align="center"><a href="https://github.com/occ-ai/obs-ocr"><img width="90" src="https://github.com/occ-ai/.github/assets/441170/adc4bb49-9665-4bc3-b440-11fe170c8acc" /></a><br/>
@@ -64,6 +64,16 @@ Join us on Discord! https://discord.gg/AubP6DTT8r - Get support and help your fe
             <strong><a href="https://github.com/occ-ai/obs-brAIn">Brain</a></strong></div>
             ⚠️Stalled⚠️ Your AI second brain for OBS: Summarize, Highlight, Chat, Translate, Suggest and Memorize using LLMs.
         </td>
+        <td>
+            <div align="center"><img width="90" src="https://github.com/occ-ai/.github/assets/441170/d54af8f2-9dd5-43f1-b86f-c6a4e61f32b3" /><br/>
+            <strong>Squawk</strong></div>
+            🐣Incubation🐣 Voice and audio synthesis for real-time avatars, assistants and clones.
+        </td>
+        <td>
+            <div align="center"><img width="90" src="https://github.com/occ-ai/.github/assets/441170/6aca6529-ab07-4998-8f20-ff01805653fa" /><br/>
+            <strong>Lobbster</strong></div>
+            🐣Incubation🐣 Image recognition for detecting Lobby scenes, or anything else! for privacy or automation.
+        </td>
     </tr>
 </table>
 
@@ -86,6 +96,8 @@ If you found any of this work of value, you can contribute too! Here are some wa
 - 👍 Share our content on social media. If you like it - tell the world!
 - 📝 Subscribe to [Roy's YouTube channel](https://youtube.com/@royshilk). You will get frequent video updates, but also help us reach a bigger audience.
 - 💸 Make a small contribution through [GitHub sponsors](https://github.com/sponsors/royshil) or [Patreon](https://patreon.com/RoyShilkrot). This will help us pay for servers usage (CI), Apple developer signing, and upkeep of the free projects.
+- Join our OpenCollective! https://opencollective.com/occ-ai and help us support this work.
+- If you are a company looking to hire our services for customization or productization of this work - please reach out!
 
 Help us build the future of AI and Content Generation!
 
