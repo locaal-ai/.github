@@ -65,9 +65,9 @@ Join us on Discord! https://discord.gg/AubP6DTT8r - Get support and help your fe
             ⚠️Stalled⚠️ Your AI second brain for OBS: Summarize, Highlight, Chat, Translate, Suggest and Memorize using LLMs.
         </td>
         <td>
-            <div align="center"><img width="90" src="https://github.com/occ-ai/.github/assets/441170/d54af8f2-9dd5-43f1-b86f-c6a4e61f32b3" /><br/>
-            <strong>Squawk</strong></div>
-            🐣Incubation🐣 Voice and audio synthesis for real-time avatars, assistants and clones.
+            <div align="center"><a href="https://github.com/occ-ai/obs-squawk"><img width="90" src="https://github.com/occ-ai/.github/assets/441170/d54af8f2-9dd5-43f1-b86f-c6a4e61f32b3" /></a><br/>
+            <strong><a href="https://github.com/occ-ai/obs-squawk">Squawk</a></strong></div>
+            Voice and speech synthesis for real-time avatars, assistants and clones.
         </td>
         <td>
             <div align="center"><img width="90" src="https://github.com/occ-ai/.github/assets/441170/6aca6529-ab07-4998-8f20-ff01805653fa" /><br/>
