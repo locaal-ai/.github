@@ -60,9 +60,9 @@ Join us on Discord! https://discord.gg/AubP6DTT8r - Get support and help your fe
     </tr>
     <tr>
         <td>
-            <div align="center"><a href="https://github.com/occ-ai/obs-brAIn"><img width="90" src="https://github.com/occ-ai/.github/assets/441170/5afbd6c6-a26c-4c60-a91f-dcc7f6a4fade" /></a><br/>
-            <strong><a href="https://github.com/occ-ai/obs-brAIn">Brain</a></strong></div>
-            ⚠️Stalled⚠️ Your AI second brain for OBS: Summarize, Highlight, Chat, Translate, Suggest and Memorize using LLMs.
+            <div align="center"><a href="https://github.com/occ-ai/obs-augmented"><img width="90" src="https://github.com/occ-ai/.github/assets/441170/5054d893-4fc6-4bd6-a1d4-e219ea3d7e42" /></a><br/>
+            <strong><a href="https://github.com/occ-ai/obs-augmented">Augmented</a></strong></div>
+            Augmented reality animated additions to faces and objects that follow pose and background.
         </td>
         <td>
             <div align="center"><a href="https://github.com/occ-ai/obs-squawk"><img width="90" src="https://github.com/occ-ai/.github/assets/441170/d54af8f2-9dd5-43f1-b86f-c6a4e61f32b3" /></a><br/>
@@ -73,6 +73,13 @@ Join us on Discord! https://discord.gg/AubP6DTT8r - Get support and help your fe
             <div align="center"><img width="90" src="https://github.com/occ-ai/.github/assets/441170/6aca6529-ab07-4998-8f20-ff01805653fa" /><br/>
             <strong>Lobbster</strong></div>
             🐣Incubation🐣 Image recognition for detecting Lobby scenes, or anything else! for privacy or automation.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <div align="center"><a href="https://github.com/occ-ai/obs-brAIn"><img width="90" src="https://github.com/occ-ai/.github/assets/441170/5afbd6c6-a26c-4c60-a91f-dcc7f6a4fade" /></a><br/>
+            <strong><a href="https://github.com/occ-ai/obs-brAIn">Brain</a></strong></div>
+            ⚠️Stalled⚠️ Your AI second brain for OBS: Summarize, Highlight, Chat, Translate, Suggest and Memorize using LLMs.
         </td>
     </tr>
 </table>
