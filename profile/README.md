@@ -16,7 +16,7 @@ Join us on Discord! https://discord.gg/AubP6DTT8r - Get support and help your fe
         <td>
             <div align="center"><a href="https://github.com/occ-ai/obs-localvocal"><img width="90" src="https://github.com/occ-ai/.github/assets/441170/93438146-2ba4-4fd0-962e-2d8c4fe43edf" /></a><br/>
             <strong><a href="https://github.com/occ-ai/obs-localvocal">LocalVocal</a></strong></div>
-            Speech AI assistant plugin for real-time, local transcription (captions). Using OpenAI Whisper and whisper.cpp.
+            Speech AI assistant for real-time, local transcription and translation. Using OpenAI Whisper and whisper.cpp.
         </td>
         <td>
             <div align="center"><a href="https://github.com/occ-ai/obs-detect"><img width="90" src="https://github.com/occ-ai/.github/assets/441170/b253c1cc-d870-49a2-9901-f4e9a470f891" /></a><br/>
@@ -48,9 +48,9 @@ Join us on Discord! https://discord.gg/AubP6DTT8r - Get support and help your fe
             Translation AI plugin for real-time, local translation to hundreds of languages.
         </td>
         <td>
-            <div align="center"><a href="https://github.com/occ-ai/lexisynth"><img width="90" src="https://github.com/occ-ai/.github/assets/441170/1a8a90ca-c6a3-4f57-8179-c07d464ed5e4" /></a><br/>
-            <strong><a href="https://github.com/occ-ai/lexisynth">LexiSynth</a></strong></div>
-            AI Laguage processor for transciption (caption), translation and speech synthesis.
+            <div align="center"><a href="https://github.com/occ-ai/obs-squawk"><img width="90" src="https://github.com/occ-ai/.github/assets/441170/d54af8f2-9dd5-43f1-b86f-c6a4e61f32b3" /></a><br/>
+            <strong><a href="https://github.com/occ-ai/obs-squawk">Squawk</a></strong></div>
+            Voice and speech synthesis for real-time avatars, assistants and clones.
         </td>
         <td>
             <div align="center"><a href="https://github.com/occ-ai/obs-cleanstream"><img width="90" src="https://github.com/occ-ai/.github/assets/441170/f83f3553-b353-49b4-b4c5-cd234549fc61" /></a><br/>
@@ -65,10 +65,10 @@ Join us on Discord! https://discord.gg/AubP6DTT8r - Get support and help your fe
             Augmented reality animated additions to faces and objects that follow pose and background.
         </td>
         <td>
-            <div align="center"><a href="https://github.com/occ-ai/obs-squawk"><img width="90" src="https://github.com/occ-ai/.github/assets/441170/d54af8f2-9dd5-43f1-b86f-c6a4e61f32b3" /></a><br/>
-            <strong><a href="https://github.com/occ-ai/obs-squawk">Squawk</a></strong></div>
-            Voice and speech synthesis for real-time avatars, assistants and clones.
-        </td>
+            <div align="center"><a href="https://github.com/occ-ai/lexisynth"><img width="90" src="https://github.com/occ-ai/.github/assets/441170/1a8a90ca-c6a3-4f57-8179-c07d464ed5e4" /></a><br/>
+            <strong><a href="https://github.com/occ-ai/lexisynth">LexiSynth</a></strong></div>
+            AI Laguage processor for transciption (caption), translation and speech synthesis.
+        </td>        
         <td>
             <div align="center"><img width="90" src="https://github.com/occ-ai/.github/assets/441170/6aca6529-ab07-4998-8f20-ff01805653fa" /><br/>
             <strong>Lobbster</strong></div>
