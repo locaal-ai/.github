@@ -1,6 +1,6 @@
-# OCC AI: Open Tools for Content Creators and Streamers
+# OCC AI: Open On-Device AI Tools for Real-time Content
 
-This organization is a home for AI tools developed for streamers and content creators.
+This organization is a home for on-device AI tools developed for real-time content creators.
 All the projects are open source and offered for free, run locally, no fees, no vendors. Pure open source ❤️
 
 Join us on Discord! https://discord.gg/AubP6DTT8r - Get support and help your fellow creators.
